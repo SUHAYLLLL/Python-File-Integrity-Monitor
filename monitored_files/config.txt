@@ -1,0 +1,6 @@
+# Server Security Configuration
+server_name=defence-server-01
+firewall_enabled=true
+ssh_port=22
+max_login_attempts=5
+logging_enabled=true
